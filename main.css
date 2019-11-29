@@ -536,7 +536,6 @@ input[type="submit"]:hover{
         box-shadow: 0 0 0 0 rgba(253, 87, 191, 0.99);
     }
 }
-animations*/
 
 /*media queries*/
 @media screen and (max-width: 768px) {
