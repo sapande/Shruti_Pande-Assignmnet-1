@@ -1,0 +1,5 @@
+{
+    "git.autofetch": true,
+    "git.defaultCloneDirectory": "https://github.com/sapande/Shruti_Pande-Assignmnet-1.git",
+    "git.fetchOnPull": true
+}
